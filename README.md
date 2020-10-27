@@ -41,7 +41,7 @@ Compañeros:
 - Alexis Porras 
 Agradezco por orientarme en las dudas que iban surguiendo sobre el desarrolo del programa.
 
-**Bibliogrfia**
+**Bibliografia**
 http://chuwiki.chuidiang.org/index.php?title=Ejemplo_sencillo_con_JInternalFrame
 https://www.ecodeup.com/como-escribir-y-leer-archivos-de-texto-plano-en-java/
 https://es.stackoverflow.com/questions/54098/que-algoritmo-de-cifrado-se-puede-usar-para-guardar-datos-en-java
@@ -49,7 +49,7 @@ https://www.apuntesdejava.com/2011/06/contrasenas-encriptadas-con-java.html
 http://javainutil.blogspot.com/2013/05/java-generar-hash-sha-y-encriptar.html
 https://stackoverrun.com/es/q/5393437
 
-**Funcionamiento**
+**Funcionamiento**:
 https://www.youtube.com/watch?v=Z9kvX7JC_1Y
 
 
